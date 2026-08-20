@@ -1,0 +1,21 @@
+VisitID,VisitDate,Patient,City,Doctor,Department,VisitType,Diagnosis,TreatmentCost
+6001,2026-05-01,Amit,Mumbai,Dr. Shah,Cardiology,Consultation,Hypertension,1500
+6002,2026-05-01,Priya,Pune,Dr. Mehta,General,Consultation,Fever,800
+6003,2026-05-02,Rahul,Mumbai,Dr. Shah,Cardiology,Follow-up,Hypertension,1000
+6004,2026-05-02,Neha,Nashik,Dr. Patil,Orthopedic,Consultation,Back Pain,1200
+6005,2026-05-03,Suresh,Pune,Dr. Mehta,General,Consultation,Infection,900
+6006,2026-05-03,Amit,Mumbai,Dr. Patil,Orthopedic,Follow-up,Back Pain,1000
+6007,2026-05-04,Priya,Pune,Dr. Mehta,General,Follow-up,Fever,600
+6008,2026-05-04,Rahul,Mumbai,Dr. Shah,Cardiology,Consultation,Cholesterol,1500
+6009,2026-05-05,Neha,Nashik,Dr. Patil,Orthopedic,Consultation,Knee Pain,1300
+6010,2026-05-05,Suresh,Pune,Dr. Mehta,General,Follow-up,Infection,700
+6011,2026-05-06,Amit,Mumbai,Dr. Shah,Cardiology,Follow-up,Cholesterol,1000
+6012,2026-05-06,Priya,Pune,Dr. Patil,Orthopedic,Consultation,Knee Pain,1400
+6013,2026-05-07,Rahul,Mumbai,Dr. Shah,Cardiology,Consultation,Hypertension,1500
+6014,2026-05-07,Neha,Nashik,Dr. Mehta,General,Consultation,Fever,800
+6015,2026-05-08,Suresh,Pune,Dr. Patil,Orthopedic,Follow-up,Back Pain,900
+6016,2026-05-08,Amit,Mumbai,Dr. Mehta,General,Consultation,Infection,850
+6017,2026-05-09,Priya,Pune,Dr. Shah,Cardiology,Consultation,Cholesterol,1600
+6018,2026-05-09,Rahul,Mumbai,Dr. Patil,Orthopedic,Follow-up,Knee Pain,1100
+6019,2026-05-10,Neha,Nashik,Dr. Mehta,General,Follow-up,Fever,600
+6020,2026-05-10,Suresh,Pune,Dr. Shah,Cardiology,Consultation,Hypertension,1500

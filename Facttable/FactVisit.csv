@@ -1,0 +1,21 @@
+VisitID,DateID,PatientID,DoctorID,DeptID,VisitType,Diagnosis,TreatmentCost
+6001,1,1,1,1,Consultation,Hypertension,1500
+6002,1,2,2,2,Consultation,Fever,800
+6003,2,3,1,1,Follow-up,Hypertension,1000
+6004,2,4,3,3,Consultation,Back Pain,1200
+6005,3,5,2,2,Consultation,Infection,900
+6006,3,1,3,3,Follow-up,Back Pain,1000
+6007,4,2,2,2,Follow-up,Fever,600
+6008,4,3,1,1,Consultation,Cholesterol,1500
+6009,5,4,3,3,Consultation,Knee Pain,1300
+6010,5,5,2,2,Follow-up,Infection,700
+6011,6,1,1,1,Follow-up,Cholesterol,1000
+6012,6,2,3,3,Consultation,Knee Pain,1400
+6013,7,3,1,1,Consultation,Hypertension,1500
+6014,7,4,2,2,Consultation,Fever,800
+6015,8,5,3,3,Follow-up,Back Pain,900
+6016,8,1,2,2,Consultation,Infection,850
+6017,9,2,1,1,Consultation,Cholesterol,1600
+6018,9,3,3,3,Follow-up,Knee Pain,1100
+6019,10,4,2,2,Follow-up,Fever,600
+6020,10,5,1,1,Consultation,Hypertension,1500
