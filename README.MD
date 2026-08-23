@@ -156,6 +156,8 @@ to execute the hospital data analysis queries.
 
 ## 12. Project Outcome
 
+text
+```
 The project demonstrates the complete flow:
 
 Raw Data
