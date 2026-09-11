@@ -102,7 +102,7 @@ dim_patient.to_csv("Dimtables/DimPatient.csv", index=False)
 dim_doctor.to_csv("Dimtables/DimDoctor.csv", index=False)
 dim_Department.to_csv("Dimtables/DimDepartment.csv", index=False)
 dim_Date.to_csv("Dimtables/DimDate.csv", index=False)
-fact_visit.to_csv("facttable/FactVisit.csv", index=False)
+fact_visit.to_csv("Facttable/FactVisit.csv", index=False)
 
 
 engine = create_engine(
