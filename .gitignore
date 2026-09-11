@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated output files
+Dimtables/
+facttable/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
